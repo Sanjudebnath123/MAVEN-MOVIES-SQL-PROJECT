@@ -1,6 +1,10 @@
 
-<h1 align="center">SQL ASSINGMENT</h1>
+<h1 align="center">THE MAVEN MOVIES SQL ASSINGMENT</h1>
 <p align="center" <a target="_blank" rel="noreferrer"> <img src="https://wallpaperaccess.com/full/2134480.png" alt="mysql" width="800" height="500" /> </a>
+
+DESCRIPTION :
+-
+The Maven Movies SQL project aimed to design and implement a robust database system tailored for a movie rental service. It involved creating a structured schema to manage movie-related data, including information about films, actors, directors, customers, and rental transactions. The project focused on optimizing data retrieval and analysis processes, facilitating efficient querying for movie availability, customer preferences, and inventory management. Additionally, the system aimed to provide comprehensive reporting capabilities to support informed decision-making. Overall, the Maven Movies SQL project sought to enhance the movie rental experience by leveraging data-driven insights and improving operational efficiency.
 
 
 QUESTIONS :
@@ -36,6 +40,9 @@ ANSWER :
 
 [ANSWER SHEET](https://github.com/Sanjudebnath123/SQL-ASSINGMENT-/blob/main/SQL%20ASSIGNMENT%20(SANJU).sql)
 
+CONCLUSION :
+-
+The Maven Movies SQL project successfully developed a comprehensive database system for managing movie data, facilitating efficient querying and analysis. By structuring and organizing data effectively, the project enabled users to retrieve information on movies, actors, directors, and genres. Additionally, the system supported advanced functionalities such as generating reports, tracking movie availability in inventory, and analyzing customer preferences. Overall, the Maven Movies SQL project streamlined data management processes, enhanced decision-making capabilities, and contributed to a more effective movie rental service.
 
 Tools used :
 -
