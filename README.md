@@ -1,5 +1,5 @@
 
-<h1 align="center">THE MAVEN MOVIES SQL ASSINGMENT</h1>
+<h1 align="center">THE MAVEN MOVIES SQL PROJECT</h1>
 <p align="center" <a target="_blank" rel="noreferrer"> <img src="https://wallpaperaccess.com/full/2134480.png" alt="mysql" width="800" height="500" /> </a>
 
 DESCRIPTION :
