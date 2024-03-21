@@ -35,10 +35,10 @@ QUESTIONS :
 23. Get the distinct film IDs from the inventory table.
 
 
-ANSWER :
+PROJECT LINK :
 -
 
-[ANSWER SHEET](https://github.com/Sanjudebnath123/SQL-ASSINGMENT-/blob/main/SQL%20ASSIGNMENT%20(SANJU).sql)
+[GITHUB REPOSITORY](https://github.com/Sanjudebnath123/SQL-ASSINGMENT-/blob/main/SQL%20ASSIGNMENT%20(SANJU).sql)
 
 CONCLUSION :
 -
